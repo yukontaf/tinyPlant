@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tinyPlant"
+  site-url: "https://yukontaf.github.io/tinyPlant"
+  description: "dummy"
+  repo-branch: main
+  repo-url: "https://github.com/yukontaf/tinyPlant"
